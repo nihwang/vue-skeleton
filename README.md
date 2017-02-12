@@ -8,8 +8,8 @@ A skeleton to quickly set up Vue.js for a project.
 
 **Other Features**
 - SCSS is enabled in this skeleton so that you don't have to specify SCSS in every vue file. 
-- Use `static/stylesheets/utils.scss` and `static/stylesheets/base-styles.scss` to import into files to use shared styles. Best used for storing variables and styles that can be shared
-```javascript
+- Use `static/stylesheets/utils.scss` and `static/stylesheets/base-styles.scss` to import into files to use shared styles. Best used for storing variables and styles that can be shared.
+```css
 <style scoped>
   @import '../../static/stylesheets/utils.scss';
 
