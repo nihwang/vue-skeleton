@@ -1,0 +1,26 @@
+// Mixins
+@mixin margin-top-bottom($pixels) {
+  margin-top: $pixels;
+  margin-bottom: $pixels;
+}
+
+@mixin margin-top($pixels) {
+  margin-top: $pixels;
+}
+
+@mixin margin-bottom($pixels) {
+  margin-bottom: $pixels;
+}
+
+@mixin padding-top-bottom($pixels) {
+  padding-top: $pixels;
+  padding-bottom: $pixels
+}
+
+@mixin padding-top($pixels) {
+  padding-top: $pixels;
+}
+
+@mixin padding-bottom($pixels) {
+  padding-bottom: $pixels;
+}
