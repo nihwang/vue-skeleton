@@ -1,7 +1,7 @@
 {
-  "name": "onesift_landing",
+  "name": "vue_skeleton",
   "version": "1.0.0",
-  "description": "Vue.js landing page",
+  "description": "Vue.js Skeleton",
   "author": "Nina Hwang <nihwang12@gmail.com>",
   "private": true,
   "scripts": {
