@@ -5,6 +5,7 @@ A skeleton to quickly set up Vue.js for a project.
 **Libraries included**:
 - Bootstrap
 - jQuery
+- [Element UI](http://element.eleme.io/#/en-US)
 
 **Other Features**
 - SCSS is enabled in this skeleton so that you don't have to specify SCSS in every vue file. 
